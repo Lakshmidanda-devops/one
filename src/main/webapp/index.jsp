@@ -747,8 +747,8 @@
                 icon: 'fa-shoe-prints'
             },
             {
-                id: 'accessories',
-                name: 'Accessories',
+                id: 'watch',
+                name: 'Watch',
                 icon: 'fa-watch'
             }
         ];
